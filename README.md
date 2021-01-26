@@ -1,2 +1,2 @@
 # WeatherAppUpd
- WeatherApp
+ Weather Application
