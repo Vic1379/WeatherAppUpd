@@ -23,7 +23,7 @@ import java.util.*
 class MainActivity : AppCompatActivity() {
 
     val CITY: String = "Vladivostok"
-    val API: String = "3435489d5e45712da125694abf911e93"
+    val API: String = "OpenWeatherMapAPI"
 
     private lateinit var appBarConfiguration: AppBarConfiguration
 
